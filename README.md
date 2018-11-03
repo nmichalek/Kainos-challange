@@ -7,3 +7,4 @@ The repository contain 4 files with the phases of my project:
 2. Features Engineering
 3. Model Creation
 4. Model Tuning
+5. Prediction
